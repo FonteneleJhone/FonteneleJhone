@@ -5,7 +5,7 @@
 
 # Publication
 
-> **INDUSTRIAL IOT SYSTEM FOR MONITORING ROTARY MACHINERY VIBRATIONS ** The **[Paper](https://semanaacademica.org.br/artigo/sistema-iot-industrial-para-monitoramento-de-vibracoes-de-maquinas-rotativas)**
+> ** INDUSTRIAL IOT SYSTEM FOR MONITORING ROTARY MACHINERY VIBRATIONS ** It Can be downloaded on Site:[Semana Acadêmica - Paper](https://semanaacademica.org.br/artigo/sistema-iot-industrial-para-monitoramento-de-vibracoes-de-maquinas-rotativas)
 
 
 Enthusiast of the best web & mobile development technologies.
