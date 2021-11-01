@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhone-fontenele/)
-
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
-
-[![Gmail Badge](https://img.shields.io/badge/-jhone_eng@icloud.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jhone_eng@icloud.com)](mailto:jhone_eng@icloud.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhone-fontenele/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]() [![Gmail Badge](https://img.shields.io/badge/-jhone_eng@icloud.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jhone_eng@icloud.com)](mailto:jhone_eng@icloud.com)
 
 Enthusiast of the best web & mobile development technologies.
 
