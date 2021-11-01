@@ -2,6 +2,15 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhone-fontenele/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fontenelejhone/) [![Gmail Badge](https://img.shields.io/badge/-jhone_eng@icloud.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jhone_eng@icloud.com)](mailto:jhone_eng@icloud.com)
 
+
+# Publication
+
+> **INDUSTRIAL IOT SYSTEM FOR MONITORING ROTARY MACHINERY VIBRATIONS ** The **Publish now**
+
+Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
+
+
+
 Enthusiast of the best web & mobile development technologies.
 
 Passionate about education and changing people's lives through programming. More than 200,000 people have already undergone one of my trainings.
