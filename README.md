@@ -12,6 +12,6 @@ In this paper, I was able to demonstrate how to integrate a Industrial machine w
 
 ### CV
 
-> Further details - http://buscatextual.cnpq.br/buscatextual/visualizacv.do
+> Further details - http://lattes.cnpq.br/0595073226160806
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhone-fontenele/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fontenelejhone/) [![Gmail Badge](https://img.shields.io/badge/-jhone_eng@icloud.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jhone_eng@icloud.com)](mailto:jhone_eng@icloud.com)
